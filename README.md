@@ -1,1 +1,1 @@
-# d365Temperature
+# D365 Temperature Sample App
